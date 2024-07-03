@@ -1,0 +1,10 @@
+{
+  "name": "shortener-api",
+  "version": "1.0.0",
+  "description": "Shortener API is a service for shortening URLs, allowing users to create short links that redirect to long URLs. It offers authentication functionalities, metrics monitoring and limitations based on user type (logged in or not logged in).",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Felipe Lacerda Fernandes de Assis",
+  "license": "ISC"
+}
